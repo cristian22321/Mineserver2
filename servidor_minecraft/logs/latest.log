@@ -1,0 +1,41 @@
+[17:12:33] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[17:12:33] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.5
+[17:12:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mineserver2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:12:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:12:40] [main/INFO]: No existing world data, creating new world
+[17:12:41] [main/INFO]: Loaded 1373 recipes
+[17:12:41] [main/INFO]: Loaded 1484 advancements
+[17:12:41] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:12:41] [Server thread/INFO]: Loading properties
+[17:12:41] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:41] [Server thread/INFO]: Generating keypair
+[17:12:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:41] [Server thread/INFO]: Using epoll channel type
+[17:12:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:12:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:12:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:12:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:12:42] [Server thread/INFO]: Preparing level "world"
+[17:12:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:12:47] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[17:12:47] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[17:12:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:12:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:12:49] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[17:12:49] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[17:12:50] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:12:50] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[17:12:51] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[17:12:51] [Server thread/INFO]: Time elapsed: 4167 ms
+[17:12:51] [Server thread/INFO]: Done (9.470s)! For help, type "help"
+[17:12:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:12:51] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/Mineserver2/msx.py<--[HERE]
+[17:13:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:14:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:14:02] [Server thread/INFO]: <--[HERE]
+[17:14:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:14:06] [Server thread/INFO]: hola<--[HERE]
