@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "b8043dbe-c5b4-3501-9887-3b5a1f076d0f",
+    "name": "polentacontuco",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
