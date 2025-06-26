@@ -36,3 +36,19 @@
 [06:11:56] [Server thread/INFO]: polentacontuco has made the advancement [Sweet Dreams]
 [06:16:43] [Server thread/WARN]: polentacontuco moved too quickly! -9.163532664202194,-3.263677079418912,3.079689342081565
 [06:23:26] [Server thread/WARN]: polentacontuco moved too quickly! 1.5966572665380454,-2.4203014563238696,-9.665876530779542
+[06:38:45] [Server thread/INFO]: polentacontuco lost connection: Disconnected
+[06:38:45] [Server thread/INFO]: polentacontuco left the game
+[06:39:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:40:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:40:58] [Server thread/INFO]: STOP<--[HERE]
+[06:41:19] [Server thread/INFO]: Stopping the server
+[06:41:19] [Server thread/INFO]: Stopping server
+[06:41:19] [Server thread/INFO]: Saving players
+[06:41:19] [Server thread/INFO]: Saving worlds
+[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
