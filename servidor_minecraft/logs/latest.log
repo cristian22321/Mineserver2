@@ -30,3 +30,14 @@
 [01:55:34] [Server thread/INFO]: polentacontuco lost connection: Disconnected
 [01:55:34] [Server thread/INFO]: polentacontuco left the game
 [01:56:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:59:23] [Server thread/INFO]: Stopping the server
+[01:59:23] [Server thread/INFO]: Stopping server
+[01:59:23] [Server thread/INFO]: Saving players
+[01:59:23] [Server thread/INFO]: Saving worlds
+[01:59:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:59:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:59:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:59:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
