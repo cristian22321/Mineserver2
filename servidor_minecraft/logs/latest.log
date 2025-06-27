@@ -1,54 +1,32 @@
-[05:45:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:45:46] [ServerMain/INFO]: Loaded 1373 recipes
-[05:45:46] [ServerMain/INFO]: Loaded 1484 advancements
-[05:45:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[05:45:46] [Server thread/INFO]: Loading properties
-[05:45:46] [Server thread/INFO]: Default game type: SURVIVAL
-[05:45:46] [Server thread/INFO]: Generating keypair
-[05:45:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:45:46] [Server thread/INFO]: Using epoll channel type
-[05:45:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:45:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:45:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:45:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:45:46] [Server thread/INFO]: Preparing level "world"
-[05:45:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:45:50] [Server thread/INFO]: Time elapsed: 3510 ms
-[05:45:50] [Server thread/INFO]: Done (3.931s)! For help, type "help"
-[05:46:02] [Server thread/INFO]: polentacontuco[/127.183.230.69:46029] logged in with entity id 88 at (195.69999998807907, 74.0, -230.9230179400607)
-[05:46:02] [Server thread/INFO]: polentacontuco joined the game
-[05:49:30] [Server thread/INFO]: polentacontuco has made the advancement [Stone Age]
-[05:49:52] [Server thread/INFO]: [Not Secure] <polentacontuco> %
-[05:51:29] [Server thread/INFO]: polentacontuco has made the advancement [Getting an Upgrade]
-[05:52:06] [Server thread/INFO]: [polentacontuco: Gamerule keepInventory is now set to: true]
-[05:58:01] [Server thread/WARN]: polentacontuco moved too quickly! -0.34144223075401214,-10.854658122346834,-1.8241420481024306
-[06:08:00] [Server thread/WARN]: polentacontuco moved too quickly! -8.630076250741752,0.16610926093821377,-5.1308783108504485
-[06:08:51] [Server thread/WARN]: polentacontuco moved too quickly! 10.015923792437377,0.0,-1.2874168320472563
-[06:09:10] [Server thread/WARN]: polentacontuco moved too quickly! -1.332186228554292,-5.570029674884225,-8.224073922784328
-[06:09:31] [Server thread/WARN]: polentacontuco moved too quickly! 1.289302855842152,2.1284013157338535,-9.918069560967979
-[06:11:56] [Server thread/INFO]: polentacontuco has made the advancement [Sweet Dreams]
-[06:16:43] [Server thread/WARN]: polentacontuco moved too quickly! -9.163532664202194,-3.263677079418912,3.079689342081565
-[06:23:26] [Server thread/WARN]: polentacontuco moved too quickly! 1.5966572665380454,-2.4203014563238696,-9.665876530779542
-[06:38:45] [Server thread/INFO]: polentacontuco lost connection: Disconnected
-[06:38:45] [Server thread/INFO]: polentacontuco left the game
-[06:39:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:40:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[06:40:58] [Server thread/INFO]: STOP<--[HERE]
-[06:41:19] [Server thread/INFO]: Stopping the server
-[06:41:19] [Server thread/INFO]: Stopping server
-[06:41:19] [Server thread/INFO]: Saving players
-[06:41:19] [Server thread/INFO]: Saving worlds
-[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:47:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:48:00] [ServerMain/INFO]: Loaded 1373 recipes
+[01:48:00] [ServerMain/INFO]: Loaded 1484 advancements
+[01:48:00] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:48:00] [Server thread/INFO]: Loading properties
+[01:48:00] [Server thread/INFO]: Default game type: SURVIVAL
+[01:48:00] [Server thread/INFO]: Generating keypair
+[01:48:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:48:01] [Server thread/INFO]: Using epoll channel type
+[01:48:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:48:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:48:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:48:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:48:01] [Server thread/INFO]: Preparing level "world"
+[01:48:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:48:06] [Server thread/INFO]: Time elapsed: 4433 ms
+[01:48:06] [Server thread/INFO]: Done (4.992s)! For help, type "help"
+[01:49:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:50:55] [Server thread/INFO]: polentacontuco[/127.183.230.69:59627] logged in with entity id 11 at (129.68914916241735, 68.0, -2836.6797497739904)
+[01:50:55] [Server thread/INFO]: polentacontuco joined the game
+[01:55:34] [Server thread/INFO]: polentacontuco lost connection: Disconnected
+[01:55:34] [Server thread/INFO]: polentacontuco left the game
+[01:56:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
